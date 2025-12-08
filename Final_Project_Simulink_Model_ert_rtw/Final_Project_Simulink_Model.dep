@@ -1,0 +1,56 @@
+Final_Project_Simulink_Model.o: \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/Final_Project_Simulink_Model.c \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/Final_Project_Simulink_Model.h \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_extmode.h \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/sysran_types.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/arduinobase/include/MW_Ultrasonic.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/arduinobase/include/MW_arduino_digitalio.h \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/Final_Project_Simulink_Model_types.h \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/MW_target_hardware_resources.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025b\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025b\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/binary.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025b\aCLI\data\packages\arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/Final_Project_Simulink_Model_private.h \
+ C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/multiword_types.h
+
+C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/Final_Project_Simulink_Model.h:
+
+C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_extmode.h:
+
+C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/sysran_types.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/arduinobase/include/MW_Ultrasonic.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/arduinobase/include/MW_arduino_digitalio.h:
+
+C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/Final_Project_Simulink_Model_types.h:
+
+C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/MW_target_hardware_resources.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025b\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025b\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/binary.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025b\aCLI\data\packages\arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h:
+
+C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/Final_Project_Simulink_Model_private.h:
+
+C:/Users/Phill/OneDrive/ARIZON~1/COURSE~1/RAS550~1/FINALP~1/Final_Project_Simulink_Model_ert_rtw/multiword_types.h:
